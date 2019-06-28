@@ -4,4 +4,4 @@
 * [Faq example](faq-example.md)
 * [Teeest](untitled.md)
 * [page](page.md)
-
+* [page2](page2.md)
